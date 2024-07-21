@@ -2,7 +2,7 @@ body {
     margin: 0;
     background-color: black;
     text-align: center;
-    color: gray;
+    color: white;
     font-size: medium;
 }
 
@@ -17,6 +17,6 @@ a:visited {
   }
   
 p {
-    font-size: 14px;
+    font-size: 24px;
     font-family: fantasy;
 }
