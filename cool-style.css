@@ -2,6 +2,17 @@ body {
     margin: 0;
     background-color: black;
     text-align: center;
-    color: darkred;
+    color: gray;
     font-size: medium;
 }
+
+/* unvisited link */
+a:visited {
+    color: gray;
+  }
+  
+/* visited link */
+a:visited {
+    color: dimgray;
+  }
+  
