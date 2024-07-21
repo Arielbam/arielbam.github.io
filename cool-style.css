@@ -1,27 +1,30 @@
 body {
     margin: 0;
     background-color: black;
-    text-align: center;
     color: white;
     /* font-size: medium; */
+    font-family: fantasy;
 }
 
 /* unvisited link */
-a:visited {
+a:link {
+    font-size: 24px;
     color: white;
   }
   
 /* visited link */
 a:visited {
+    font-size: 24px;
     color: darkred;
   }
   
 p {
     font-size: 24px;
-    font-family: fantasy;
+    /* font-family: fantasy; */
 }
 
 h1 {
+    text-align: center;
     font-size: 72px;
-    font-family: fantasy;
+    /* font-family: fantasy; */
 }
