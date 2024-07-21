@@ -3,17 +3,17 @@ body {
     background-color: black;
     text-align: center;
     color: white;
-    font-size: medium;
+    /* font-size: medium; */
 }
 
 /* unvisited link */
 a:visited {
-    color: gray;
+    color: white;
   }
   
 /* visited link */
 a:visited {
-    color: dimgray;
+    color: darkred;
   }
   
 p {
