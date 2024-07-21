@@ -1,5 +1,5 @@
 body {
-    margin: 0;
+    margin: 25px 50px;
     background-color: black;
     color: white;
     /* font-size: medium; */
@@ -10,13 +10,13 @@ body {
 a:link {
     font-size: 24px;
     color: white;
-  }
+}
   
 /* visited link */
 a:visited {
     font-size: 24px;
     color: darkred;
-  }
+}
   
 p {
     font-size: 24px;
